@@ -6,9 +6,8 @@ In this practical application, our goal is to compare the performance of the cla
 </p>
 
 ## <h3>Repo Structure</h3>
-* The compare_classifiers.ipynb file contains python code related to data analysis, visualization.
+* The <a href="https://github.com/NRUTHVIIK1396/Compare-Classifiers/blob/main/compare_classifiers.ipynb">compare_classifiers.ipynb</a> file contains python code related to data analysis, visualization.
 * The data folder has bank-additional-full.csv file that contains sample data used in this application.
-* The compare_classifiers_eport.docx file contains brief report about this application.
 
 ## <h3>Business Objective</h3>
 <p>
@@ -18,7 +17,7 @@ The dataset contains information about client attributes, campaign details, and 
 
 The aim is to identify the classifier that performs best in terms of these metrics, which will provide valuable insights for the bank's marketing campaign.
 
-Thank you UCI Machine Learning repository for allowing us to use your dataset https://archive.ics.uci.edu/dataset/222/bank+marketing.
+UCI Machine Learning repository dataset: https://archive.ics.uci.edu/dataset/222/bank+marketing.
 </p>
 
 ## Key Highlights
